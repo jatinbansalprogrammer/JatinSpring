@@ -1,0 +1,11 @@
+/.classpath
+.classpath
+.myeclipse
+.settings
+.metadata
+*.class
+/Workspace/.metadata/
+/Workspace/Servers/
+/bin/
+.classpath
+.project
